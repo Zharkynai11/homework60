@@ -1,0 +1,9 @@
+.Explorer {
+    position: absolute;
+    height: 96%;
+    top: 2%;
+    left: 1%;
+    overflow: auto;
+    border: 2px solid black;
+    width: 20%;
+}

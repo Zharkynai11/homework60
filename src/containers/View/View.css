@@ -1,0 +1,23 @@
+.View {
+    position: absolute;
+    top: 2%;
+    width: 75%;
+    left: 22%;
+    border: 2px solid black;
+    height: 96%;
+}
+h1 {
+    text-align: left;
+}
+p,li{
+    text-align: left;
+}
+img{
+    position: absolute;
+    width: 30%;
+    left: 68%;
+    top: 2%;
+}
+li {
+    border-bottom: 2px solid black;
+}
